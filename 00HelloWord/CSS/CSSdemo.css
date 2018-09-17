@@ -6,14 +6,14 @@
         color:tomato;
     }
     */
-    .big{
+    h2.big{
         text-align:center;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 20px;
         color: aqua;
     }
 
-    .small{
+    h2.small{
         text-align: center;
         text-indent: 10pt;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
